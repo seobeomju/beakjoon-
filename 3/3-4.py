@@ -5,6 +5,6 @@ for i in range(N):
     a,b = map(int,input().split())
     price+=a*b
 if price==X:
-    print("yes")
+    print("Yes")
 else:
     print("No")
